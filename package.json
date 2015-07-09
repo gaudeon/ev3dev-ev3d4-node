@@ -1,0 +1,23 @@
+{
+  "name": "ev3dev-ev3d4-node",
+  "version": "1.0.0",
+  "description": "Controller software for ev3d4 design using ev3dev operating environment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gaudeon/ev3dev-ev3d4-node.git"
+  },
+  "author": "Travis Chase",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gaudeon/ev3dev-ev3d4-node/issues"
+  },
+  "homepage": "https://github.com/gaudeon/ev3dev-ev3d4-node",
+  "dependencies": {
+    "ev3dev": "^0.9.2",
+    "lodash": "^3.10.0"
+  }
+}
